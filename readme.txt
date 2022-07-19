@@ -14,3 +14,5 @@ The players are given the choice to hit or stand each turn, and the server waits
 Once a player has chosen to stand, they are kept up to date with the game's output, but are refused the option to make choices each turn until the game concludes.
 When there are no active players remaining (i.e. they've bust or have chosen to stand) scores are calculated and displayed to the clients.
 The game then ends and thanks the players for playing, before the application terminates.
+
+This is a vscode test
